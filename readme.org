@@ -1,0 +1,36 @@
+
+1. 电商行业中, =货币化率(Monetization rate)= 是指?
+   #+begin_example
+    阿里的IPO文件里面有提到：
+
+    货币化率 = 营业收入 / GMV
+
+    营业收入是阿里巴巴向第三方卖家收取广告费、交易佣金的直接收入；
+
+    GMV是所有成交订单的总金额。
+   #+end_example
+
+2. 如何看待别人的 =毛病= ?
+
+   #+begin_example
+
+   很多人喜欢评价别人，但我们也发现只要陷入了评价别人的怪圈，就会感觉身
+   边没有一个人是可用的。我们不能像“医生”一样，因为在他们的眼里，每个人
+   都是病人。 我们要像“木匠”一样去发现每个人的“可塑性”，认为每个人其实都
+   是可塑之才。
+
+   #+end_example
+
+3. 微信生态圈是什么?
+
+   #+attr_org: :width 800px
+   [[images/wechat-eco.png]]
+
+4. Bilibili 的商业模式是什么?
+   #+attr_org: :width 800px
+   [[images/bilibili-model.png]]
+
+5. 社区团购的模式是什么?
+
+   #+attr_org: :width 800px
+   [[images/local-group-buy.png]]
