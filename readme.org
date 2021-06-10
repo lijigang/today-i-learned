@@ -1,5 +1,5 @@
 
-1. 电商行业中, =货币化率(Monetization rate)= 是指?
+** 电商行业中, =货币化率(Monetization rate)= 是指?
    #+begin_example
     阿里的IPO文件里面有提到：
 
@@ -10,7 +10,7 @@
     GMV是所有成交订单的总金额。
    #+end_example
 
-2. 如何看待别人的 =毛病= ?
+** 如何看待别人的 =毛病= ?
 
    #+begin_example
 
@@ -21,16 +21,16 @@
 
    #+end_example
 
-3. 微信生态圈是什么?
+** 微信生态圈是什么?
 
    #+attr_org: :width 800px
    [[images/wechat-eco.png]]
 
-4. Bilibili 的商业模式是什么?
+** Bilibili 的商业模式是什么?
    #+attr_org: :width 800px
    [[images/bilibili-model.png]]
 
-5. 社区团购的模式是什么?
+** 社区团购的模式是什么?
 
    #+attr_org: :width 800px
    [[images/local-group-buy.png]]
