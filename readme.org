@@ -161,3 +161,17 @@ If you blow one quarter, you get back on track for the next quarter.
 Fail small, not big."
 
    #+end_example
+** 商业社会发展的动力是什么?
+  #+begin_example
+
+整个社会发展的源动力，就是创新。
+
+=创新= ，可以让你短期内拥有别人无法赶及的领先优势，从而拥有定价权，获得高
+毛利的创新红利。
+
+=效率= ，可以降低价格，将创新红利不断返给社会，让社会可以以低价获得优质商
+品。
+
+这两股力量交替推动社会往前发展。
+
+  #+end_example
