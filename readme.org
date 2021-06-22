@@ -22,20 +22,6 @@
 
    #+end_example
 
-** 微信生态圈是什么?
-
-   #+attr_org: :width 800px
-   [[images/wechat-eco.png]]
-
-** Bilibili 的商业模式是什么?
-   #+attr_org: :width 800px
-   [[images/bilibili-model.png]]
-
-** 社区团购的模式是什么?
-
-   #+attr_org: :width 800px
-   [[images/local-group-buy.png]]
-
 ** 为什么公司会要求员工的学历水平?
 
   #+begin_example
@@ -444,5 +430,11 @@ translator:
       但这往往是基于企业的主观判断，还需要进一步通过市场调查来验证定价的
       合理性。可选的定价方法比较多，比如Gabor Granger、引申Gabor Granger、
       PSM、心理价差测试、BPTO测试等。
+
+   #+end_example
+** 什么是正统?
+   #+begin_example
+
+   欧阳修谓：“正者，所以正天下之不正也。统者，所以合天下之不一也。"
 
    #+end_example
