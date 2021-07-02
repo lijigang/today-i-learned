@@ -506,9 +506,8 @@ translator:
     5. 存在层 (人生追求/人生定位)
 
 #+end_example
-** 如何看待人的思维层次?
+** 如何看待人的理解层次?
    #+begin_example
-
 
    1. 顶流: 精神层 (使命者)
 
@@ -549,3 +548,6 @@ translator:
       思考: 身边的人和资源如何利用起来, 帮你实现目标
 
    #+end_example
+
+   #+attr_org: :width 600px
+   [[file:images/understand-levels.png]]
