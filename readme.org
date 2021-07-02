@@ -471,3 +471,10 @@ translator:
       以把这部分未来确定的收益，现在就一起打包出售了！这就是它们值钱的原
       因。
    #+end_quote
+** 公司员工有哪些类型
+   #+begin_example
+    有两类: 创造价值的员工 和 提升效率的员工
+   #+end_example
+
+ #+attr_org: :width 600px
+   [[file:images/two-type-employees.png]]
