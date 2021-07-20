@@ -553,6 +553,9 @@ translator:
    [[file:images/understand-levels.png]]
 ** 如何寻找趋势?
 
+   #+begin_example
+
+
    寻找 *势能差*,  然后 要么加入势能高的一方,  要么想办法让其为你赋能
 
    有四种常见的势能差:
@@ -573,6 +576,8 @@ translator:
    4. 引力势能
 
       - 强引力的事物, 类似黑洞一样存在, 吸引周围的事物
+
+   #+end_example
 ** 什么是初心？
 #+begin_example
 
@@ -589,3 +594,18 @@ translator:
 心，持续学习，不断调整，你才“方得始终”。
 
 #+end_example
+** brew cleanup 报错如何解决?
+   #+begin_example
+
+
+  `brew cleanup` has not been run in 30 days, running now...
+
+Error: Permission denied @ apply2files - /usr/local/lib/docker/cli-plugins
+
+   #+end_example
+
+   #+begin_src shell
+   sudo chown -R "$(whoami)":admin /usr/local/lib
+
+   brew cleanup
+   #+end_src
