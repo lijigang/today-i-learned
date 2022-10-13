@@ -1,5 +1,15 @@
 #+title: Today I Learned
 
+** 成本和费用的区别是什么?
+#+begin_quote
+- Cost: an amount that has to be paid or spent to buy or obtain something
+- Expense: the money spent on something
+
+成本: 和产品生产相关, 将来会有 *收入* 的补偿。如人工成本, 销售提成等。
+
+费用: 和产品生产无关, 无论如何均会支出的部分。如房租。
+#+end_quote
+
 ** 什么是退休?
 #+begin_quote
 退休就是不再为了想象中的明天而牺牲今天。
