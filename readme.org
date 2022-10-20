@@ -1,5 +1,14 @@
 #+title: Today I Learned
 
+** 什么是领导力?
+#+begin_quote
+领导力需做好如下三步:
+
+1. 目标: 邀请团队成员进入一个故事
+2. 使命: 讲述该故事为何如此重要
+3. 分工: 安排每个成员在该故事中的角色
+#+end_quote
+
 ** 成本和费用的区别是什么?
 #+begin_quote
 - Cost: an amount that has to be paid or spent to buy or obtain something
